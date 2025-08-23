@@ -191,21 +191,6 @@ FROM item_day_w;
 
 ---
 
-## 📝 Suggested LinkedIn post
-- **Hook:** “Campus Canteen CFO: I priced Veg Puff wrong. SQL fixed it. 🍽️📊”  
-- **Concepts:** GROUP BY → window → elasticity (%ΔQ/%ΔP).  
-- **Findings:** Veg Puff elastic → lower price; Chai inelastic → test small increase.  
-- **CTA:** Comment **CFO** for dataset + notebook (link in comments).  
-- Attach images: 02, 03, and 05 (or all 5 as a carousel).
-
----
-
-## 🔗 How to cite & license
-- License: MIT (replace if you prefer).  
-- Citation: “Campus Canteen CFO — CSV→SQL→Elasticity by <your name>”.
-
----
-
 ## 🙋 Troubleshooting
 - **No elasticity values?** Ensure there’s a price change for that item and enough days with units > 0.  
 - **Weird spikes?** Exclude days with `units < 10`; smooth with medians.  
