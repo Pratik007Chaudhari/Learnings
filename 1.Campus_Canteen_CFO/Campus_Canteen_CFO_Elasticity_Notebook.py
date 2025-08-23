@@ -32,6 +32,7 @@ print(f"Schema Name: {schema_name}")
 # MAGIC %sql
 # MAGIC Use catalog learning;
 # MAGIC USE schema sample;
+# MAGIC
 
 # COMMAND ----------
 
