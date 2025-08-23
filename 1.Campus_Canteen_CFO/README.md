@@ -10,7 +10,7 @@
 
 ## 🎯 Objectives
 - Teach core SQL analytics patterns with a relatable scenario.
-- Show how to estimate simple price elasticity without ML.
+- Show how to estimate simple price elasticity without Machine Learning.
 - Produce shareable visuals for LinkedIn/GitHub.
 
 ---
